@@ -10,7 +10,7 @@
 
 ## 获取及提交lab
 
-**获取**：通过 `https://github.com/fdu-20ss-programming-A/lab3`或者`超星平台`获取。
+**获取**：通过 `https://github.com/fdu-21ss-programming/lab3`或者`超星平台`获取。
 
 **提交**：本次lab附带的练习题将于2021年10月9日15:25发布于**头歌平台**，lab文档内附带的选择题与填空题需要在**超星平台**对应作业处提交
 
